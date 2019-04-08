@@ -1,4 +1,4 @@
-package restaurantBooking
+package main
 
 import (
 	"context"
